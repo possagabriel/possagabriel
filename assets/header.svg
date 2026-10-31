@@ -1,40 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Gabriel Possa</title>
-  <desc id="desc">Desenvolvimento web, mobile e jogos. Banner escuro com tipografia clara, detalhes em verde e uma composição geométrica de código.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#11191E"/>
-      <stop offset="1" stop-color="#0D1117"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="950" y1="80" x2="1060" y2="270" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#AEF4CF"/>
-      <stop offset="1" stop-color="#62B88B"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#283A35" stroke-opacity=".35"/>
-    </pattern>
-  </defs>
-  <rect x=".5" y=".5" width="1199" height="359" rx="18" fill="url(#bg)" stroke="#29363B"/>
-  <path d="M64 0V360M1136 0V360" stroke="#253239" stroke-opacity=".5"/>
-  <rect x="790" y="32" width="345" height="296" fill="url(#grid)"/>
-  <g font-family="DejaVu Sans,Arial,sans-serif">
-    <rect x="64" y="54" width="34" height="34" rx="9" fill="#AEF4CF"/>
-    <text x="81" y="76" text-anchor="middle" fill="#102019" font-size="13" font-weight="700">GP</text>
-    <text x="112" y="76" fill="#A4B4BA" font-size="13" letter-spacing="2.5">POSSAGABRIEL</text>
-    <text x="60" y="176" fill="#F0F5F3" font-size="66" font-weight="700" letter-spacing="-2.5">Gabriel Possa</text>
-    <text x="64" y="221" fill="#C4CFD0" font-size="22">Desenvolvimento web, mobile e jogos.</text>
-    <path d="M64 267H102" stroke="#AEF4CF" stroke-width="3"/>
-    <text x="116" y="273" fill="#8EAAA2" font-size="13" letter-spacing="1.2">IDEIAS EM CÓDIGO.</text>
-  </g>
-  <rect x="846" y="78" width="240" height="205" rx="16" fill="#101A1D" stroke="#3C514A"/>
-  <path d="M846 119H1086" stroke="#30433C"/>
-  <circle cx="869" cy="99" r="4" fill="#AEF4CF"/>
-  <circle cx="884" cy="99" r="4" fill="#486057"/>
-  <circle cx="899" cy="99" r="4" fill="#486057"/>
-  <g stroke="url(#accent)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M921 160L893 186L921 212M1012 160L1040 186L1012 212M980 152L953 221"/>
-  </g>
-  <path d="M873 254H927M940 254H973" stroke="#3C514A" stroke-width="4" stroke-linecap="round"/>
-  <path d="M817 69V51H835M1099 292H1117V274" stroke="#AEF4CF" stroke-opacity=".6"/>
-  <circle cx="1096" cy="59" r="3" fill="#AEF4CF"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+<title id="title">gabriel possa.</title>
+<desc id="desc">Nome em letras grandes e retrato em arte ASCII do perfil original, sobre fundo preto com detalhes em laranja.</desc>
+<rect width="1200" height="430" fill="#151515"/>
+<path d="M38 63H1162M38 388H1162M655 83V366" stroke="#41403b"/>
+<g font-family="DejaVu Sans Mono,monospace" font-size="13" fill="#a6a49a">
+<text x="40" y="40">@possagabriel</text>
+<text x="1160" y="40" text-anchor="end">web / mobile / jogos</text>
+<text x="40" y="415">Python / TypeScript / JavaScript</text>
+<text x="1160" y="415" text-anchor="end" fill="#e58b59">↓</text>
+</g>
+<g font-family="DejaVu Sans,Arial,sans-serif" font-size="112" font-weight="700" letter-spacing="-7">
+<text x="32" y="190" fill="#ece9df">gabriel</text>
+<text x="32" y="300" fill="#e58b59">possa.</text>
+</g>
+<text x="40" y="352" fill="#a6a49a" font-family="DejaVu Sans Mono,monospace" font-size="15">apps, jogos e faculdade.</text>
+<g transform="translate(695 64) scale(.64)"><ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="34.6" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                                    ::::::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="44.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                            ::__ggg@@@oogggg/__:</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="53.8" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                          ::\gxxoggg@@pU$$xa$UQou;.::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="63.400000000000006" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                        _\xgo@@@@UeUX-5Ijj::!j::::::::::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="73" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                     :\aooo@@@@@@ooox;.:::':::::__:::jj::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="82.6" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                    \\wyuoU---!jxww***+!::::  :::'=ug]!!c:</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="92.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                   \opxj:-'  ::::jujj!:::      :::!~    !j:</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="101.8" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                  \opq;___. :   :-':                     !u:</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="111.39999999999999" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 |onsj?~'      :::::::::::::::            :::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="121" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                :jr :     :jj_:jixuogu_:::::j:::::          :</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="130.6" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                |C.      :|xxxuxxooooooooggu_______.</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="140.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                !x:      :xoooooxooooo@@@@@@@@@@ooooo//.</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="149.8" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                !c   ::::\ooooooooooooo@@@@@@@@@@@@@oooy:</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="159.4" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 :: ::xugoooooown*---$oo@@@@@@@@@@oooooo|:</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="169" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 :::juooooooww;_____.:j1aoooowI=''-!=noog:</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="178.6" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 _:uxo@@ooooxxxonnv=j=xxoo@@oxjjjxxxujjoo|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="188.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               |ZVoxoo@@ooooxc::_  i;:ixoo@@|j:;  ')j1xoo|_,</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="197.79999999999998" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               |jjoooo@@ooooooxxxxjxjxxoooo@oxxjj_ju_jooog}|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="207.4" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                               |juoo1ooooooooooooooooooooooooooguugooooooojj</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="217" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                uapjuooooooooo@o@@@@@oooooo@@ooo@ooo@ooooox|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="226.6" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                |oouaaxoooooooo@@@@@@ooooooooooo@@@@@ooooo|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="236.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                 |oooxjiooooooo@@@@ooooc__jjj:|oo@@@oooooi|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="245.79999999999998" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                  |ooxjjioooooo@@o@oooox]voosuoooooooooo|j</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="255.39999999999998" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                   "-=:jjjxoooooooooww]: :::::/$ooooooop:`</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="265" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                      ::::j=1aoooo]:jjjjjv1n]j_j:|aooov!</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="274.6" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                      : ::!:jj1ooxju___;________jjjoocj</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="284.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                      |; : :::|xxvxooooxxxxxxxooox1o\::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="293.8" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                      ||.     '+!:!vxooouj:|jxoox\:!`</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="303.4" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                      |ou/         :|ooooooooooo\</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="313" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                      |oxx.         ::=1ooooxn='    \j</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="322.59999999999997" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                     :gooxxj.          :!=!-:      \xg|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="332.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                   ::|@oooxxjj_.                 \xxo@|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="341.8" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                              .::::: |@poooxxxxjjj:.:        ._|xxooq@o     :::::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="351.4" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                          .:j:::::   |@|xooooxxxxjjjjjjj:jjjjxxxoooq@@|          ::::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="361" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                     ._:j:::  :::    |@@|1ooooooxxxxxxxxxxxxxxoooxq@@@|             :::::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="370.59999999999997" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">               .__jjjj::::   ::      |@@@/xoooooooooooooooooooooou@@@@                   :::::::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="380.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">         .__|jjjjjj::::     ::        @@@@pxooooooooooooooooooooq@@@@|                        :::::::</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="389.8" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">    ..jjjjjjjj::::::         ::       |@@@@gooooooooooooooooooog@@@@@|                              ::: :</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="399.4" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">   :j::::::::::::                     |@Cxo@oooooooooooooo@@oo@@oox|@|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="409" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">   :::::::::                          |@goo@@@oo@@@@@ooo@@@@o@@@@oog@</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="418.59999999999997" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                      |o@@@@@@@@@@o@@@o@@@@o@@@@@@@@|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="428.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                       |@@@@@@@@@@oooooooo@@@@@@@@@@|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="437.8" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8"> :                                     |@@@@@@@@@@@@@oooo@@@@@@@@@@|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="447.4" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">:                                      |@@@@@@@@@@@@@@o@@@@@@@@@@@@|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="457" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                       |@@@@@@@@@@@@@@@@@@@@@@@@@@@|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="466.59999999999997" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                        @@@@@@@@@@@@@@@@@@@@@@@@@@|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="476.2" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                        |@@@@@@@@@@@@@@@@@@@@@@@@@|</ns0:text>
+  <ns0:text xmlns:ns0="http://www.w3.org/2000/svg" x="28" y="485.79999999999995" fill="#b8b6ac" font-family="'Consolas', 'Menlo', 'DejaVu Sans Mono', monospace" xml:space="preserve" font-size="8">                                        |@@@@@@@@@@@@@@@@@@@@@@@@@|</ns0:text>
+  </g></svg>
