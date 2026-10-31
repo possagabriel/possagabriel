@@ -13,3 +13,9 @@
 ---
 
 Também tem [computação gráfica](https://github.com/possagabriel/Exercicio-Computaco-Grafica), trabalhos da faculdade e [outros projetos](https://github.com/possagabriel?tab=repositories).
+
+### stack
+<img src="https://skillicons.dev/icons?i=java,spring,react,ts,python,git,github&perline=7" />
+
+### contato
+<a href="https://linkedin.com/in/gabrielpossa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
