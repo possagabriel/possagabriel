@@ -1,4 +1,4 @@
-![Gabriel Possa, com o retrato em ASCII do meu perfil original.](assets/header.svg)
+<img src="https://raw.githubusercontent.com/possagabriel/possagabriel/main/assets/header.svg" alt="Gabriel Possa — retrato em ASCII" width="100%" />
 
 ### um jogo de nave
 
